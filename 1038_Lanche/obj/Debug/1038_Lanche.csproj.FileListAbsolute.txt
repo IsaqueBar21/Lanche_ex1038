@@ -1,0 +1,7 @@
+C:\CURSOS\C#\projetos\1038_Lanche\1038_Lanche\bin\Debug\1038_Lanche.exe.config
+C:\CURSOS\C#\projetos\1038_Lanche\1038_Lanche\bin\Debug\1038_Lanche.exe
+C:\CURSOS\C#\projetos\1038_Lanche\1038_Lanche\bin\Debug\1038_Lanche.pdb
+C:\CURSOS\C#\projetos\1038_Lanche\1038_Lanche\obj\Debug\1038_Lanche.csproj.AssemblyReference.cache
+C:\CURSOS\C#\projetos\1038_Lanche\1038_Lanche\obj\Debug\1038_Lanche.csproj.CoreCompileInputs.cache
+C:\CURSOS\C#\projetos\1038_Lanche\1038_Lanche\obj\Debug\1038_Lanche.exe
+C:\CURSOS\C#\projetos\1038_Lanche\1038_Lanche\obj\Debug\1038_Lanche.pdb
